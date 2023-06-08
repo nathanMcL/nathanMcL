@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nathanMcL
-- 👀 I’m interested in ...technology
-- 🌱 I’m currently learning ... Java,
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...alot, not sure how to express
+- 🌱 I’m currently learning ...Current Computer Science major. In my repositories I have: Java, Python, Jasmin programs
+- 💞️ I’m looking to collaborate on ...I like searching for programs, coding them, testing the programs. 
 - 📫 How to reach me ...
 
 <!---
