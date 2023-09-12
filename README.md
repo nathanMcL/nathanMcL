@@ -10,8 +10,8 @@
 ## 👩‍💻 Skills
 
 <p align="left">
-  <img src="https://github.com/nathanMcL/ComSci_projects" alt="ComSci_projects Public" width="40" height="40"/>
-  
+  <img src="https://github.com/nathanMcL/ComSci_projects" alt="ComSci_projects" width="40" height="40"/>
+  <img src="https://github.com/nathanMcL/GIS" alt="GIS exploration" width="40" height="40"/>
 </p>
 
 <!---
