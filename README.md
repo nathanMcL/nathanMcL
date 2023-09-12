@@ -10,7 +10,7 @@
 ## 👩‍💻 Skills
 
 <p align="left">
-  <img src="[python_icon.png](https://github.com/nathanMcL?tab=repositories)" alt="Python" width="40" height="40"/>
+  <img src="[(https://github.com/nathanMcL?tab=repositories)](https://github.com/nathanMcL/Graphing)" alt="Python" width="40" height="40"/>
   <img src="javascript_icon.png" alt="JavaScript" width="40" height="40"/>
 </p>
 
