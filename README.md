@@ -10,8 +10,8 @@
 ## 👩‍💻 Skills
 
 <p align="left">
-  <img src="https://github.com/nathanMcL/ComSci_projects" alt="Python" width="40" height="40"/>
-  <img src="javascript_icon.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/nathanMcL/ComSci_projects" alt="ComSci_projects Public" width="40" height="40"/>
+  
 </p>
 
 <!---
