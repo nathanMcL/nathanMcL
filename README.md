@@ -10,10 +10,9 @@
 ## 👩‍💻 Skills
 
 <p align="left">
-  <img src="[(https://github.com/nathanMcL?tab=repositories)](https://github.com/nathanMcL/Graphing)" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/nathanMcL/ComSci_projects" alt="Python" width="40" height="40"/>
   <img src="javascript_icon.png" alt="JavaScript" width="40" height="40"/>
 </p>
-
 
 <!---
 nathanMcL/nathanMcL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
