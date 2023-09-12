@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @nathanMcL
+- 👋 Hi, I’m I'm Nathan
+- ![visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourrepository)
+
 - 👀 I’m interested in ...alot, not sure how to express
 - 🌱 I’m currently learning ...Current Computer Science studies. In my repositories I have: Java, Python, Jasmin, JS, HTML programs
 - 💞️ I’m looking to collaborate on ...I like searching for programs, coding them, testing the programs. 
