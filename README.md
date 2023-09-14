@@ -1,5 +1,10 @@
+# Hi there, I'm Nathan 👋
+
 
 ![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanMcL&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 
 <!---
 nathanMcL/nathanMcL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
