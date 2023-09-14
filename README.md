@@ -1,20 +1,5 @@
-- 👋 Hi, I’m I'm Nathan
 
-- 👀 I’m interested in ...alot, 
-  
-- 🌱 I’m currently learning ... Computer Science student. In my repositories I have: Java, Python, Jasmin, JS, HTML programs
-  
-- 💞️ I’m looking to collaborate on ... I like to create, search for and test programs.
-  
-- 📫 How to reach me... [LinkedIn profile](https://www.linkedin.com/in/www.linkedin.com/in/nathan-mclaughlin-942b28126/)
-
- * Under construction * 
-## 👩‍💻 Skills
-<p align="left">
-  <img src="https://github.com/nathanMcL/ComSci_projects" alt="ComSci_projects" width="40" height="40"/>
-  <img src="https://github.com/nathanMcL/GIS" alt="GIS exploration" width="40" height="40"/>
-  <img src="https://github.com/nathanMcL/Graphing" alt="Graphing exploration" width="40" height="40"/>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!---
 nathanMcL/nathanMcL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
