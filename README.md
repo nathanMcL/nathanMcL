@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanMcL&show_icons=true&theme=radical)
 
 <!---
 nathanMcL/nathanMcL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
