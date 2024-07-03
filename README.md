@@ -29,6 +29,9 @@
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nathanMcL)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nathanMcL&theme=onedark)](https://github.com/nathanMcL/github-profile-trophy)
+
 <!---
 nathanMcL/nathanMcL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
