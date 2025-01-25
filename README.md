@@ -32,7 +32,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nathanMcL&theme=onedark)](https://github.com/nathanMcL/github-profile-trophy)
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=<nathanMcL>)
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=nathanMcL)
 
 <!---
 nathanMcL/nathanMcL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
